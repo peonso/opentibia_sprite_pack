@@ -6,6 +6,7 @@ alphabetical order:
 
 - 3visan (aka Vittu) - [@TibiaKing](http://www.tibiaking.com/forum/profile/19276-3visan/);
 - Anevis (aka Caynez) - [@OTLand](https://otland.net/members/anevis.175097/), [@OTRealm](https://otrealm.com/index.php?members/caynez.51/);
+- Andreéw - [@OTLand)(https://otland.net/members/andreew.211874/);
 - Arkan'. - [@OTLand](https://otland.net/members/arkan.214264/);
 - BeachboyX - [@OTRealm](https://sprites.otrealm.com/);
 - BrenoNeto - [@XTibia](http://www.xtibia.com/forum/profile/356307-brenoneto/);
@@ -13,9 +14,11 @@ alphabetical order:
 - Daniel - [@OTRealm](https://sprites.otrealm.com/), [@TibiaKing](http://www.tibiaking.com/forum/profile/25583-daniel/);
 - DawTorr - [@OTLand](https://otland.net/members/dawtorr.200757/);
 - Despute - [@OTLand](https://otland.net/members/despute.212598/);
+- ElderDark - [@TibiaKing](http://www.tibiaking.com/forum/profile/24698-elderdark/);
 - Erick Etchebeur - [@OTRealm](https://otrealm.com/index.php?members/erick-etchebeur.7/), [@OTLand](https://otland.net/members/erick-etchebeur.212333/);
 - Frevius - [@XTibia](http://www.xtibia.com/forum/profile/41440-frenvius/);
 - Galiant (aka Andre) - [@OTLand](https://otland.net/members/galiant.211412/);
+- Hunter Killer (aka Made of Clay) - [@OpenTibia](https://opentibia.net/topic/129940-who-deleted-my-thead/);
 - Jacobs - [@OTLand](https://otland.net/members/jacobs.203121/);
 - Landera - [@OTLand](https://otland.net/members/landera.146831/);
 - Leshrot - [@OTLand](https://otland.net/members/leshrot.169503/), [@TibiaKing](http://www.tibiaking.com/forum/profile/40651-leshrot/), [@XTibia](http://www.xtibia.com/forum/profile/388631-leshrot/), [@OTRealm](https://otrealm.com/index.php?members/leshrot.50/);
@@ -24,6 +27,7 @@ alphabetical order:
 - maxmillerxd - [@TibiaKing](http://www.tibiaking.com/forum/profile/15396-maxmillerxd/);
 - Nechros - [@TibiaKing](http://www.tibiaking.com/forum/profile/40715-nechros/);
 - Nogard - [@TibiaKing](http://www.tibiaking.com/forum/profile/38543-nogard/), [@XTibia](http://www.xtibia.com/forum/profile/397698-nogard/);
+- Noxz - [@OTLand](https://otland.net/members/noxz.6166/);
 - Nu77 - [@OTLand](https://otland.net/members/nu77.204078/);
 - Saphron - [@OTLand](https://otland.net/members/saphron.91841/), [@OTRealm](https://otrealm.com/index.php?members/saphron.14/);
 - Sherice - [@OTLand](https://otland.net/members/sherice.150418/);
