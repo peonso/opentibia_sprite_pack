@@ -6,7 +6,7 @@ alphabetical order:
 
 - 3visan (aka Vittu) - [@TibiaKing](http://www.tibiaking.com/forum/profile/19276-3visan/);
 - Anevis (aka Caynez) - [@OTLand](https://otland.net/members/anevis.175097/), [@OTRealm](https://otrealm.com/index.php?members/caynez.51/);
-- Andreéw - [@OTLand)(https://otland.net/members/andreew.211874/);
+- Andreéw - [@OTLand](https://otland.net/members/andreew.211874/);
 - Arkan'. - [@OTLand](https://otland.net/members/arkan.214264/);
 - BeachboyX - [@OTRealm](https://sprites.otrealm.com/);
 - BrenoNeto - [@XTibia](http://www.xtibia.com/forum/profile/356307-brenoneto/);
