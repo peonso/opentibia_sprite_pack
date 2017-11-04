@@ -11,6 +11,8 @@ alphabetical order:
 - BeachboyX - [@OTRealm](https://sprites.otrealm.com/);
 - BrenoNeto - [@XTibia](http://www.xtibia.com/forum/profile/356307-brenoneto/);
 - Cat - [@ZezeniaForum](https://www.zezeniaonline.com/forum/thread/15599);
+- Celix - [@PhobosForum](http://forum.phobosonline.com/memberlist.php?mode=viewprofile&u=20);
+- dami1310 - [@OTLand](https://otland.net/members/dami1310.174641/);
 - Daniel - [@OTRealm](https://sprites.otrealm.com/), [@TibiaKing](http://www.tibiaking.com/forum/profile/25583-daniel/);
 - DawTorr - [@OTLand](https://otland.net/members/dawtorr.200757/);
 - Despute - [@OTLand](https://otland.net/members/despute.212598/);
