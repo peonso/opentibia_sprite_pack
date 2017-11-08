@@ -25,6 +25,7 @@ alphabetical order:
 - Landera - [@OTLand](https://otland.net/members/landera.146831/);
 - Leshrot - [@OTLand](https://otland.net/members/leshrot.169503/), [@TibiaKing](http://www.tibiaking.com/forum/profile/40651-leshrot/), [@XTibia](http://www.xtibia.com/forum/profile/388631-leshrot/), [@OTRealm](https://otrealm.com/index.php?members/leshrot.50/);
 - lionkobin - [@XTibia](http://www.xtibia.com/forum/profile/294150-lionkobin/);
+- Madarada - [@OTLand](https://otland.net/members/madarada.222164/), [@XTibia](http://www.xtibia.com/forum/profile/379350-madarada/), [@TibiaKing](http://www.tibiaking.com/forum/profile/106486-madarada/);
 - markindoot - [@XTibia](http://www.xtibia.com/forum/profile/357805-markindoot/);
 - maxmillerxd - [@TibiaKing](http://www.tibiaking.com/forum/profile/15396-maxmillerxd/);
 - Nechros - [@TibiaKing](http://www.tibiaking.com/forum/profile/40715-nechros/);
