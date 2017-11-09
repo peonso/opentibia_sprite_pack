@@ -30,6 +30,7 @@ alphabetical order:
 - maxmillerxd - [@TibiaKing](http://www.tibiaking.com/forum/profile/15396-maxmillerxd/);
 - Nechros - [@TibiaKing](http://www.tibiaking.com/forum/profile/40715-nechros/);
 - Nogard - [@TibiaKing](http://www.tibiaking.com/forum/profile/38543-nogard/), [@XTibia](http://www.xtibia.com/forum/profile/397698-nogard/);
+- Nordberg - [@PhobosForum](http://forum.phobosonline.com/memberlist.php?mode=viewprofile&u=126);
 - Noxz - [@OTLand](https://otland.net/members/noxz.6166/);
 - Nu77 - [@OTLand](https://otland.net/members/nu77.204078/);
 - Saphron - [@OTLand](https://otland.net/members/saphron.91841/), [@OTRealm](https://otrealm.com/index.php?members/saphron.14/);
