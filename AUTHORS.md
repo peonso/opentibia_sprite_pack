@@ -20,6 +20,7 @@ alphabetical order:
 - Erick Etchebeur - [@OTRealm](https://otrealm.com/index.php?members/erick-etchebeur.7/), [@OTLand](https://otland.net/members/erick-etchebeur.212333/);
 - Frevius - [@XTibia](http://www.xtibia.com/forum/profile/41440-frenvius/);
 - Galiant (aka Andre) - [@OTLand](https://otland.net/members/galiant.211412/);
+- GhostX - [@OTLand](https://otland.net/members/ghostx.145618/);
 - Hunter Killer (aka Made of Clay) - [@OpenTibia](https://opentibia.net/topic/129940-who-deleted-my-thead/);
 - Jacobs - [@OTLand](https://otland.net/members/jacobs.203121/);
 - Landera - [@OTLand](https://otland.net/members/landera.146831/);
