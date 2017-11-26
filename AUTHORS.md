@@ -45,3 +45,4 @@ alphabetical order:
 - wesleyt10 - [@XTibia](http://www.xtibia.com/forum/profile/360593-wesleyt10/);
 - Way20 - [@OTLand](https://otland.net/threads/way-gallery.224923/);
 - Weto - [@OTLand](https://otland.net/members/weto.209826/), [@TibiaKing](http://www.tibiaking.com/forum/profile/28864-ewerton-weto-costa/), [@XTibia](http://www.xtibia.com/forum/profile/226928-eltoo/);
+- Worr - [@OTLand](https://otland.net/members/worr.110421/);
