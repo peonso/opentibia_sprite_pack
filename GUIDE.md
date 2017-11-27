@@ -12,12 +12,12 @@ OpenTibia Sprite Pack (OTSP) uses different IDs for everything.
 - you will need to change actions/movements/weapons for OTSP items ids;
 - change Doors at global.lua ([here](https://github.com/otland/forgottenserver/blob/master/data/global.lua#L7-L13));
 - create totally new spells using OTSP effects;
-- create totally new monstes using OTSP outfits;
+- create totally new monsters using OTSP outfits;
 - add the outfits to outfits.xml ([here](https://github.com/otland/forgottenserver/blob/master/data/XML/outfits.xml));
 - add more details and custom information to our items.xml;
 
 #### Client
-- make sure it search for otsp.spr and otsp.dat files instead of deafult ones [here](https://github.com/edubart/otclient/blob/master/modules/game_things/things.lua#L12);
+- make sure it search for otsp.spr and otsp.dat files instead of deafult ones ([here](https://github.com/edubart/otclient/blob/master/modules/game_things/things.lua#L12));
 
 #### Website/AAC
 - check starting outfit and starting items ids (we have outfits from 1-24, 17-21 better suited for players);
