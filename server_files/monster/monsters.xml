@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monsters>
+
+	<monster name="Cat" file="cat.xml" />
+	<monster name="Goblin" file="goblin.xml" />
+	<monster name="Mechanical Magus" file="mechanical magus.xml" />
+	<monster name="Mechanical Tactician" file="mechanical tactician.xml" />
+
+</monsters>

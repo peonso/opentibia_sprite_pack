@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="997" centery="1033" centerz="7" radius="1">
+		<monster name="Cat" x="0" y="0" z="7" spawntime="150" />
+	</spawn>
+	<spawn centerx="1002" centery="1034" centerz="7" radius="1">
+		<monster name="Goblin" x="0" y="0" z="7" spawntime="150" />
+	</spawn>
+	<spawn centerx="1000" centery="1042" centerz="7" radius="1">
+		<monster name="Mechanical Tactician" x="0" y="0" z="7" spawntime="150" />
+	</spawn>
+	<spawn centerx="998" centery="1045" centerz="7" radius="1">
+		<monster name="Mechanical Magus" x="0" y="0" z="7" spawntime="150" />
+	</spawn>
+</spawns>

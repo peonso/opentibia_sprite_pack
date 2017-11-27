@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<monster name="Mechanical Magus" nameDescription="a mechanical magus" race="undead" experience="25" speed="150" manacost="290">
+	<health now="50" max="50" />
+	<look type="4" corpse="2228" />
+	<targetchange interval="1000" chance="50" />
+	<flags>
+		<flag summonable="1" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="1" />
+		<flag convinceable="1" />
+		<flag pushable="1" />
+		<flag canpushitems="0" />
+		<flag canpushcreatures="0" />
+		<flag targetdistance="4" />
+		<flag staticattack="80" />
+		<flag runonhealth="15" />
+	</flags>
+	<attacks>
+		<attack name="melee" interval="2000" min="0" max="-10" />
+		<attack name="fire" interval="2000" chance="20" range="7" radius="3" target="1" min="-5" max="-15">
+			<attribute key="shootEffect" value="fire" />
+			<attribute key="areaEffect" value="energy" />
+		</attack>
+		<attack name="earth" interval="2000" chance="10" length="8" spread="0" min="-10" max="-20">
+			<attribute key="areaEffect" value="blackspark" />
+		</attack>
+	</attacks>
+	<defenses armor="20" defense="20">
+		<defense name="healing" interval="2000" chance="20" min="5" max="15">
+			<attribute key="areaEffect" value="firearea" />
+		</defense>
+	</defenses>
+	<elements>
+		<element energyPercent="0" />
+		<element holyPercent="0" />
+		<element earthPercent="0" />
+		<element deathPercent="0" />
+	</elements>
+	<voices interval="5000" chance="10">
+	</voices>
+	<loot>
+	</loot>
+</monster>
