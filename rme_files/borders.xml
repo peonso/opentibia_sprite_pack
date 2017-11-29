@@ -1,0 +1,20 @@
+<materials>
+
+	<!-- OTSP -->
+	<border id="1" group="1"> <!-- grass border -->
+		<borderitem edge="n"   item="215"/>
+		<borderitem edge="e"   item="216"/>
+		<borderitem edge="s"   item="217"/>
+		<borderitem edge="w"   item="218"/>
+		<borderitem edge="cnw" item="219"/>
+		<borderitem edge="cne" item="220"/>
+		<borderitem edge="csw" item="221"/>
+		<borderitem edge="cse" item="222"/>
+		<borderitem edge="dnw" item="223"/>
+		<borderitem edge="dne" item="224"/>
+		<borderitem edge="dsw" item="225"/>
+		<borderitem edge="dse" item="226"/>
+	</border>
+	<!-- OTSP end -->
+
+</materials>

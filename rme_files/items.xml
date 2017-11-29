@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+	<!-- grounds -->
+	<item fromid="100" toid="124" name="grass"/>
+	<item fromid="125" toid="176" name="tile"/>
+	<item fromid="177" toid="181" name="roof"/>
+	<item id="182" name="tile"/>
+	<item fromid="183" toid="214" name="roof"/>
+	<!-- borders -->
+	<item fromid="215" toid="470" name="border"/>
+	<item fromid="471" toid="490" name="roof"/>
+	<item fromid="491" toid="504" name="border"/>
+	<item fromid="505" toid="508" name="roof"/>
+	<item fromid="509" toid="517" name="debries"/>
+	<!-- walls -->
+	<item fromid="518" toid="900" article="a" name="wall"/>
+	<item fromid="901" toid="918" article="a" name="roof"/>
+	<item fromid="919" toid="961" article="a" name="mountain"/>
+	<item fromid="962" toid="972" article="a" name="wall"/>
+	<item fromid="973" toid="976" article="a" name="mountain"/>
+	<item fromid="977" toid="986" article="a" name="wall"/>
+	<item fromid="987" toid="989" article="a" name="mountain"/>
+	<!-- grounds II -->
+	<item fromid="990" toid="994" article="a" name="mountain"/>
+	<item fromid="995" toid="996" article="a" name="hole">
+		<attribute key="floorchange" value="down"/>
+	</item>
+	<item fromid="997" toid="998" name="stairs">
+		<attribute key="floorchange" value="down"/>
+	</item>
+	<item id="999" article="a" name="sewers"/>
+	<item id="1000" article="a" name="rope spot"/>
+	<!-- doors -->
+	<item id="1001" article="a" name="ramp">
+		<attribute key="floorchange" value="north"/>
+	</item>
+	<item id="1002" article="a" name="ramp">
+		<attribute key="floorchange" value="west"/>
+	</item>
+	<item id="1003" article="a" name="ramp">
+		<attribute key="floorchange" value="north"/>
+	</item>
+	<item id="1004" article="a" name="ramp">
+		<attribute key="floorchange" value="west"/>
+	</item>
+	<item id="1005" name="stairs">
+		<attribute key="floorchange" value="north"/>
+	</item>
+	<item id="1006" name="stairs">
+		<attribute key="floorchange" value="west"/>
+	</item>
+	<item id="1007" name="stairs">
+		<attribute key="floorchange" value="east"/>
+	</item>
+	<item id="1008" name="stairs">
+		<attribute key="floorchange" value="south"/>
+	</item>
+	<item id="1009" article="a" name="ladder"/>
+	<item fromid="1010" toid="1011" article="a" name="wall"/>
+	<item fromid="1012" toid="1077" article="a" name="door"/>
+	<item fromid="1078" toid="1079" article="a" name="window"/>
+	<item fromid="1080" toid="1086" article="a" name="door"/>
+	<!-- town -->
+	<item fromid="1087" toid="1314" article="an" name="object"/>
+	<!-- nature -->
+	<item fromid="1315" toid="1499" article="a" name="plant"/>
+	<item fromid="1500" toid="1584" article="a" name="tree"/>
+	<item fromid="1585" toid="1586" article="a" name="giant mushroom"/>
+	<item id="1587" name="plant"/>
+	<item fromid="1588" toid="1591" article="a" name="tree log"/>
+	<item fromid="1592" toid="1621" name="stones"/>
+	<item fromid="1622" toid="1676" article="a" name="stone"/>
+	<!-- sword -->
+	<item fromid="1677" toid="1799" article="a" name="sword">
+		<attribute key="weight" value="2000"/>
+		<attribute key="defense" value="12"/>
+		<attribute key="attack" value="14"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="extradef" value="1"/>
+	</item>
+	<!-- club -->
+	<item fromid="1800" toid="1818" article="a" name="club">
+		<attribute key="weight" value="2000"/>
+		<attribute key="defense" value="12"/>
+		<attribute key="attack" value="16"/>
+		<attribute key="weaponType" value="club"/>
+	</item>
+	<!-- axe -->
+	<item fromid="1819" toid="1869" article="a" name="axe">
+		<attribute key="weight" value="2000"/>
+		<attribute key="defense" value="12"/>
+		<attribute key="attack" value="15"/>
+		<attribute key="weaponType" value="axe"/>
+	</item>
+	<!-- distance weapon -->
+	<item fromid="1870" toid="1896" article="a" name="distance weapon">
+		<attribute key="weight" value="2000" />
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="ammoType" value="arrow"/>
+		<attribute key="range" value="6"/>
+		<attribute key="hitChance" value="5"/>
+	</item>
+	<!-- magic items -->
+	<item fromid="1897" toid="1898" article="a" name="wand">
+		<attribute key="weight" value="2700" />
+		<attribute key="weaponType" value="wand"/>
+		<attribute key="shootType" value="fire"/>
+		<attribute key="range" value="3"/>
+	</item>
+	<item id="1899" article="a" name="grimoire">
+		<attribute key="weight" value="1800"/>
+		<attribute key="defense" value="7"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+	<item fromid="1900" toid="1903" article="a" name="wand">
+		<attribute key="weight" value="2700" />
+		<attribute key="weaponType" value="wand"/>
+		<attribute key="shootType" value="fire"/>
+		<attribute key="range" value="3"/>
+	</item>
+	<item fromid="1904" toid="1905" article="a" name="grimoire">
+		<attribute key="weight" value="1800"/>
+		<attribute key="defense" value="7"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+	<item fromid="1906" toid="1909" article="a" name="wand">
+		<attribute key="weight" value="2700" />
+		<attribute key="weaponType" value="wand"/>
+		<attribute key="shootType" value="fire"/>
+		<attribute key="range" value="3"/>
+	</item>
+	<!-- shield -->
+	<item fromid="1910" toid="1940" article="a" name="shield">
+		<attribute key="weight" value="2000"/>
+		<attribute key="defense" value="18"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+	<!-- helmet -->
+	<item fromid="1941" toid="1991" article="a" name="helmet">
+		<attribute key="weight" value="2000"/>
+		<attribute key="armor" value="4"/>
+		<attribute key="slotType" value="head"/>
+	</item>
+	<!-- unsorted -->
+	<item id="1992" name="shield">
+		<attribute key="weight" value="2000"/>
+		<attribute key="defense" value="18"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+	<item fromid="1993" toid="1994" article="a" name="distance weapon">
+		<attribute key="weight" value="2000" />
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="ammoType" value="arrow"/>
+		<attribute key="range" value="6"/>
+		<attribute key="hitChance" value="5"/>
+	</item>
+	<!-- chest -->
+	<item fromid="1995" toid="2076" article="an" name="armor chest">
+		<attribute key="weight" value="2000"/>
+		<attribute key="armor" value="5"/>
+		<attribute key="slotType" value="body"/>
+	</item>
+	<!-- legs -->
+	<item fromid="2077" toid="2089" article="a" name="legs">
+		<attribute key="weight" value="2000"/>
+		<attribute key="armor" value="3"/>
+		<attribute key="slotType" value="legs"/>
+	</item>
+	<!-- boots -->
+	<item fromid="2089" toid="2098" article="a" name="boots">
+		<attribute key="weight" value="750"/>
+		<attribute key="armor" value="1"/>
+		<attribute key="slotType" value="feet"/>
+	</item>
+	<!-- equipment -->
+	<item fromid="2099" toid="2102" article="a" name="backpack">
+		<attribute key="weight" value="1800"/>
+		<attribute key="containerSize" value="20"/>
+		<attribute key="slotType" value="backpack"/>
+	</item>
+	<item fromid="2103" toid="2160" article="an" name="equipment">
+		<attribute key="weight" value="500"/>
+	</item>
+	<item fromid="2161" toid="2220" article="an" name="object">
+		<attribute key="weight" value="500"/>
+	</item>
+	<!-- pools and splashes -->
+	<item fromid="2221" toid="2226" article="a" name="pool"/>
+	<!-- bodies -->
+	<item id="2227" article="a" name="dead human">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="0"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+		<attribute key="fluidSource" value="blood"/>
+	</item>
+	<item id="2228" article="a" name="dead cat">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2229"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+		<attribute key="fluidSource" value="blood"/>
+	</item>
+	<item id="2229" article="a" name="dead cat">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2230"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+	</item>
+	<item id="2230" article="a" name="dead cat">
+		<attribute key="decayTo" value="0"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+	</item>
+	<item id="2231" article="a" name="dead succubus">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2232"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+		<attribute key="fluidSource" value="blood"/>
+	</item>
+	<item id="2232" article="a" name="dead succubus">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2233"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+	</item>
+	<item id="2233" article="a" name="dead succubus">
+		<attribute key="decayTo" value="0"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+	</item>
+	<item id="2234" article="a" name="dead goblin">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2235"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+		<attribute key="fluidSource" value="blood"/>
+	</item>
+	<item id="2235" article="a" name="dead goblin">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2236"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+	</item>
+	<item id="2236" article="a" name="dead goblin">
+		<attribute key="decayTo" value="0"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+	</item>
+	<item id="2237" article="a" name="dead coleoptera">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2238"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="venom"/>
+		<attribute key="fluidSource" value="slime"/>
+	</item>
+	<item id="2238" article="a" name="dead coleoptera">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2239"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="venom"/>
+	</item>
+	<item id="2239" article="a" name="dead coleoptera">
+		<attribute key="decayTo" value="0"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="venom"/>
+	</item>
+	<item id="2240" article="a" name="dead scolopendra">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2241"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="venom"/>
+		<attribute key="fluidSource" value="slime"/>
+	</item>
+	<item id="2241" article="a" name="dead scolopendra">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2242"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="venom"/>
+	</item>
+	<item id="2242" article="a" name="dead scolopendra">
+		<attribute key="decayTo" value="0"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="venom"/>
+	</item>
+	<item id="2243" article="a" name="dead vespidae">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2244"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="venom"/>
+		<attribute key="fluidSource" value="slime"/>
+	</item>
+	<item id="2244" article="a" name="dead vespidae">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2245"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="venom"/>
+	</item>
+	<item id="2245" article="a" name="dead vespidae">
+		<attribute key="decayTo" value="0"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="venom"/>
+	</item>
+	<item id="2246" article="a" name="dead human">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2247"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+		<attribute key="fluidSource" value="blood"/>
+	</item>
+	<item id="2247" article="a" name="dead human">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2248"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+	</item>
+	<item id="2248" article="a" name="dead human">
+		<attribute key="decayTo" value="0"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+	</item>
+	<!-- grounds III -->
+	<item id="2249" name="stairs">
+		<attribute key="floorchange" value="down"/>
+	</item>
+	<item id="2250" name="nothing special"/>
+	
+	<!-- liquids -->
+	<item id="30001" name="water" />
+	<item id="30002" name="blood" />
+	<item id="30003" name="beer" />
+	<item id="30004" name="slime" />
+	<item id="30005" name="lemonade" />
+	<item id="30006" name="milk" />
+	<item id="30007" name="manafluid" />
+	<item id="30010" name="lifefluid" />
+	<item id="30011" name="oil" />
+	<item id="30013" name="urine" />
+	<item id="30014" name="coconut milk" />
+	<item id="30015" name="wine" />
+	<item id="30019" name="mud" />
+	<item id="30021" name="fruit juice" />
+	<item id="30026" name="lava" />
+	<item id="30027" name="rum" />
+	<item id="30028" name="swamp" />
+	<item id="30035" name="tea" />
+	<item id="30043" name="mead" />
+</items>

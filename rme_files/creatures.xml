@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creatures>
+    <creature name="Cat" type="monster" looktype="1"/>
+	<creature name="Succubus" type="monster" looktype="2"/>
+	<creature name="Mechanical Tactician" type="monster" looktype="3"/>
+	<creature name="Mechanical Magus" type="monster" looktype="4"/>
+	<creature name="Wraith" type="monster" looktype="5"/>
+	<creature name="Pig" type="monster" looktype="6"/>
+	<creature name="Goblin" type="monster" looktype="7"/>
+	<creature name="Coleoptera" type="monster" looktype="8"/>
+	<creature name="Crow" type="monster" looktype="9"/>
+	<creature name="Occultist" type="monster" looktype="10"/>
+	<creature name="Mechanical Boar" type="monster" looktype="11"/>
+	<creature name="Domestic Bear" type="monster" looktype="12"/>
+	<creature name="Scolopendra" type="monster" looktype="13"/>
+	<creature name="Vespidae" type="monster" looktype="14"/>
+	<creature name="Gandalf" type="monster" looktype="15"/>
+	<creature name="Amazon" type="monster" looktype="19"/>
+	<creature name="Arcadia Protector" type="monster" looktype="22"/>
+	<creature name="Sacred Warrior" type="monster" looktype="23"/>
+	<creature name="Taenia" type="monster" looktype="24"/>
+</creatures>

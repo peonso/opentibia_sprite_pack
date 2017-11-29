@@ -1,0 +1,15 @@
+<materials>
+	
+	<!-- OTSP -->
+	<brush name="grass" type="ground" server_lookid="101" z-order="3500">
+		<item id="101" chance="50"/>
+		<item id="102" chance="15"/>
+		<item id="103" chance="15"/>
+		<item id="104" chance="10"/>
+		<item id="105" chance="10"/>
+
+		<border align="outer" id="1"/>
+	</brush>	
+	<!-- OTSP end -->
+
+</materials>

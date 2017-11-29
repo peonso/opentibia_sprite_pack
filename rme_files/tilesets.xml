@@ -1,0 +1,125 @@
+<materials>
+	
+	<!-- OTSP -->	
+	<tileset name="Grounds">
+		<raw>
+			<item fromid="100" toid="176"/>
+			<item id="182"/>
+			<item fromid="191" toid="202"/>
+			<item fromid="990" toid="994"/>
+			<item id="2250"/>
+		</raw>
+	</tileset>
+	
+	<tileset name="Floor Change">
+		<raw>
+			<item fromid="995" toid="1009"/>
+			<item id="2249"/>
+		</raw>
+	</tileset>
+	
+	<tileset name="Roofs">
+		<raw>
+			<item fromid="177" toid="181"/>
+			<item fromid="182" toid="190"/>
+			<item fromid="471" toid="490"/>
+			<item fromid="505" toid="508"/>
+			<item fromid="901" toid="918"/>			
+		</raw>
+	</tileset>
+	
+	<tileset name="Borders">
+		<raw>
+			<item fromid="203" toid="470"/>
+			<item fromid="491" toid="504"/>
+		</raw>
+	</tileset>
+	
+	<tileset name="Walls">
+		<raw>
+	        <item fromid="518" toid="900" article="a" name="wall"/>
+			<item fromid="962" toid="972" article="a" name="wall"/>
+			<item fromid="977" toid="986" article="a" name="wall"/>
+			<item fromid="1010" toid="1011" article="a" name="wall"/>
+		</raw>
+	</tileset>
+	
+	<tileset name="Doors and Windows">
+		<raw>
+	        <item fromid="1012" toid="1077" article="a" name="door"/>
+			<item fromid="1078" toid="1079" article="a" name="window"/>
+			<item fromid="1080" toid="1086" article="a" name="door"/>
+		</raw>
+	</tileset>
+	
+	<tileset name="Mountains">
+		<raw>
+			<item fromid="919" toid="961" article="a" name="mountain"/>
+			<item fromid="973" toid="976" article="a" name="mountain"/>
+			<item fromid="987" toid="989" article="a" name="mountain"/>
+		</raw>
+	</tileset>
+	
+	<tileset name="Stones">
+		<raw>
+			<item fromid="509" toid="517"/>
+			<item fromid="1592" toid="1621" name="stones"/>
+			<item fromid="1622" toid="1676" article="a" name="stone"/>
+		</raw>
+	</tileset>
+	
+	<tileset name="Nature">
+		<raw>
+			<item fromid="1315" toid="1499" article="a" name="plant"/>
+			<item fromid="1500" toid="1584" article="a" name="tree"/>
+			<item fromid="1585" toid="1586" article="a" name="giant mushroom"/>
+			<item id="1587" name="plant"/>
+			<item fromid="1588" toid="1591" article="a" name="tree log"/>
+		</raw>
+	</tileset>
+	
+	<tileset name="Gear">
+		<raw>
+			<item id="1899"/>
+			<item fromid="1904" toid="1905"/>
+			<item fromid="1910" toid="1992"/>
+			<item fromid="1995" toid="2098"/>
+		</raw>
+	</tileset>
+	
+	<tileset name="Weapons">
+		<raw>
+			<item fromid="1677" toid="1898"/>
+			<item fromid="1900" toid="1903"/>
+			<item fromid="1906" toid="1909"/>
+			<item fromid="1993" toid="1994"/>
+		</raw>
+	</tileset>
+	
+	<tileset name="Equipment">
+		<raw>
+			<item fromid="2099" toid="2102" article="a" name="backpack"/>
+			<item fromid="2103" toid="2160" article="an" name="equipment"/>
+		</raw>
+	</tileset>
+	
+	<tileset name="Pools">
+		<raw>
+			<item fromid="2221" toid="2226" article="a" name="pool"/>
+		</raw>
+	</tileset>
+	
+	<tileset name="Town">
+		<raw>
+			<item fromid="1087" toid="1314" article="an" name="object"/>
+			<item fromid="2161" toid="2220" article="an" name="object"/>
+		</raw>
+	</tileset>
+
+	<tileset name="Corpses">
+		<raw>
+			<item fromid="2227" toid="2248"/>
+		</raw>
+	</tileset>
+
+</materials>
