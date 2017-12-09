@@ -136,7 +136,7 @@
 		<attribute key="weaponType" value="shield"/>
 	</item>
 	<!-- helmet -->
-	<item fromid="1941" toid="1991" article="a" name="helmet">
+	<item fromid="1910" toid="1991" article="a" name="helmet">
 		<attribute key="weight" value="2000"/>
 		<attribute key="armor" value="4"/>
 		<attribute key="slotType" value="head"/>
@@ -161,7 +161,7 @@
 		<attribute key="slotType" value="body"/>
 	</item>
 	<!-- legs -->
-	<item fromid="2077" toid="2089" article="a" name="legs">
+	<item fromid="2077" toid="2089" article="a" name="legs"/>
 		<attribute key="weight" value="2000"/>
 		<attribute key="armor" value="3"/>
 		<attribute key="slotType" value="legs"/>
@@ -185,7 +185,30 @@
 		<attribute key="weight" value="500"/>
 	</item>
 	<!-- pools and splashes -->
-	<item fromid="2221" toid="2226" article="a" name="pool"/>
+	<item id="2221" article="a" name="pool">
+		<attribute key="decayTo" value="2222" />
+		<attribute key="duration" value="60" />
+	</item>
+	<item id="2222" article="a" name="pool">
+		<attribute key="decayTo" value="2223" />
+		<attribute key="duration" value="60" />
+	</item>
+	<item id="2223" article="a" name="pool">
+		<attribute key="decayTo" value="0" />
+		<attribute key="duration" value="60" />
+	</item>
+	<item id="2224" article="a" name="pool">
+		<attribute key="decayTo" value="2225" />
+		<attribute key="duration" value="60" />
+	</item>
+	<item id="2225" article="a" name="pool">
+		<attribute key="decayTo" value="2226" />
+		<attribute key="duration" value="60" />
+	</item>
+	<item id="2226" article="a" name="pool">
+		<attribute key="decayTo" value="0" />
+		<attribute key="duration" value="60" />
+	</item>
 	<!-- bodies -->
 	<item id="2227" article="a" name="dead human">
 		<attribute key="containerSize" value="10"/>
@@ -325,6 +348,60 @@
 		<attribute key="floorchange" value="down"/>
 	</item>
 	<item id="2250" name="nothing special"/>
+	<!-- update -->
+	<item fromid="2251" toid="2252" name="border"/>
+	<item fromid="2253" toid="2257" article="a" name="mountain"/>
+	<item fromid="2258" toid="2259" article="a" name="tree log"/>
+	<item fromid="2260" toid="2261" name="water"/>
+	<item fromid="2262" toid="2263" article="a" name="stone"/>
+	<item fromid="2264" toid="2272" article="a" name="sword">
+		<attribute key="weight" value="2000"/>
+		<attribute key="defense" value="12"/>
+		<attribute key="attack" value="14"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="extradef" value="1"/>
+	</item>
+	<item fromid="2273" toid="2274" article="a" name="club">
+		<attribute key="weight" value="2000"/>
+		<attribute key="defense" value="12"/>
+		<attribute key="attack" value="16"/>
+		<attribute key="weaponType" value="club"/>
+	</item>
+	<item id="2275" article="a" name="axe">
+		<attribute key="weight" value="2000"/>
+		<attribute key="defense" value="12"/>
+		<attribute key="attack" value="15"/>
+		<attribute key="weaponType" value="axe"/>
+	</item>
+	<item fromid="2276" toid="2277" article="a" name="wand">
+		<attribute key="weight" value="2700" />
+		<attribute key="weaponType" value="wand"/>
+		<attribute key="shootType" value="fire"/>
+		<attribute key="range" value="3"/>
+	</item>
+	<item fromid="2278" toid="2282" article="a" name="shield">
+		<attribute key="weight" value="2000"/>
+		<attribute key="defense" value="18"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+	<item id="2283" article="a" name="helmet">
+		<attribute key="weight" value="2000"/>
+		<attribute key="armor" value="4"/>
+		<attribute key="slotType" value="head"/>
+	</item>
+	<item fromid="2284" toid="2293" article="an" name="armor chest">
+		<attribute key="weight" value="2000"/>
+		<attribute key="armor" value="5"/>
+		<attribute key="slotType" value="body"/>
+	</item>
+	<item id="2294" article="a" name="legs"/>
+		<attribute key="weight" value="2000"/>
+		<attribute key="armor" value="3"/>
+		<attribute key="slotType" value="legs"/>
+	</item>
+	<item id="2295" article="an" name="object">
+		<attribute key="weight" value="50"/>
+	</item>
 	
 	<!-- liquids -->
 	<item id="30001" name="water" />

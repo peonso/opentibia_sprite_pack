@@ -8,6 +8,7 @@
 			<item fromid="191" toid="202"/>
 			<item fromid="990" toid="994"/>
 			<item id="2250"/>
+			<item fromid="2260" toid="2261" name="water"/>
 		</raw>
 	</tileset>
 	
@@ -32,6 +33,7 @@
 		<raw>
 			<item fromid="203" toid="470"/>
 			<item fromid="491" toid="504"/>
+			<item fromid="2251" toid="2252" name="border"/>
 		</raw>
 	</tileset>
 	
@@ -57,6 +59,7 @@
 			<item fromid="919" toid="961" article="a" name="mountain"/>
 			<item fromid="973" toid="976" article="a" name="mountain"/>
 			<item fromid="987" toid="989" article="a" name="mountain"/>
+			<item fromid="2253" toid="2257" article="a" name="mountain"/>
 		</raw>
 	</tileset>
 	
@@ -65,6 +68,7 @@
 			<item fromid="509" toid="517"/>
 			<item fromid="1592" toid="1621" name="stones"/>
 			<item fromid="1622" toid="1676" article="a" name="stone"/>
+			<item fromid="2262" toid="2263" article="a" name="stone"/>
 		</raw>
 	</tileset>
 	
@@ -75,6 +79,7 @@
 			<item fromid="1585" toid="1586" article="a" name="giant mushroom"/>
 			<item id="1587" name="plant"/>
 			<item fromid="1588" toid="1591" article="a" name="tree log"/>
+			<item fromid="2258" toid="2259" article="a" name="tree log"/>
 		</raw>
 	</tileset>
 	
@@ -84,6 +89,7 @@
 			<item fromid="1904" toid="1905"/>
 			<item fromid="1910" toid="1992"/>
 			<item fromid="1995" toid="2098"/>
+			<item fromid="2278" toid="2294"/>
 		</raw>
 	</tileset>
 	
@@ -93,6 +99,7 @@
 			<item fromid="1900" toid="1903"/>
 			<item fromid="1906" toid="1909"/>
 			<item fromid="1993" toid="1994"/>
+			<item fromid="2264" toid="2277"/>
 		</raw>
 	</tileset>
 	
@@ -100,6 +107,7 @@
 		<raw>
 			<item fromid="2099" toid="2102" article="a" name="backpack"/>
 			<item fromid="2103" toid="2160" article="an" name="equipment"/>
+			<item id="2295"/>
 		</raw>
 	</tileset>
 	

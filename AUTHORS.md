@@ -22,6 +22,7 @@ alphabetical order:
 - Frevius - [@XTibia](http://www.xtibia.com/forum/profile/41440-frenvius/);
 - Galiant (aka Andre) - [@OTLand](https://otland.net/members/galiant.211412/);
 - GhostX - [@OTLand](https://otland.net/members/ghostx.145618/);
+- HalfAway - [@OTLand](https://otland.net/members/halfaway.142275/), [@OTRealm](https://otrealm.com/index.php?members/halfaway.1/);
 - Hunter Killer (aka Made of Clay) - [@OpenTibia](https://opentibia.net/topic/129940-who-deleted-my-thead/);
 - Jacobs - [@OTLand](https://otland.net/members/jacobs.203121/);
 - Landera - [@OTLand](https://otland.net/members/landera.146831/);
@@ -42,6 +43,7 @@ alphabetical order:
 - Slaake - [@TibiaKing](http://www.tibiaking.com/forum/profile/35794-slaake/);
 - Somni - [@OTLand](https://otland.net/members/somni.6137/);
 - Thorn - [@OTLand](https://otland.net/members/thorn.166053/), [@OTRealm](https://otrealm.com/index.php?members/thorn.130/);
+- Venesis - [@OTLand](https://otland.net/members/venesis.23089/);
 - wesleyt10 - [@XTibia](http://www.xtibia.com/forum/profile/360593-wesleyt10/);
 - Way20 - [@OTLand](https://otland.net/threads/way-gallery.224923/);
 - Weto - [@OTLand](https://otland.net/members/weto.209826/), [@TibiaKing](http://www.tibiaking.com/forum/profile/28864-ewerton-weto-costa/), [@XTibia](http://www.xtibia.com/forum/profile/226928-eltoo/);
