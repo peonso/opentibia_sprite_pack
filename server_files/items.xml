@@ -394,7 +394,7 @@
 		<attribute key="armor" value="5"/>
 		<attribute key="slotType" value="body"/>
 	</item>
-	<item id="2294" article="a" name="legs"/>
+	<item id="2294" article="a" name="legs">
 		<attribute key="weight" value="2000"/>
 		<attribute key="armor" value="3"/>
 		<attribute key="slotType" value="legs"/>
