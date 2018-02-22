@@ -50,10 +50,10 @@
 		<attribute key="floorchange" value="west"/>
 	</item>
 	<item id="1007" name="stairs">
-		<attribute key="floorchange" value="east"/>
+		<attribute key="floorchange" value="eastalt"/>
 	</item>
 	<item id="1008" name="stairs">
-		<attribute key="floorchange" value="south"/>
+		<attribute key="floorchange" value="southalt"/>
 	</item>
 	<item id="1009" article="a" name="ladder"/>
 	<item fromid="1010" toid="1011" article="a" name="wall"/>

@@ -4,6 +4,7 @@ Many people contributed for this release, some did so years ago, when
 they made the sprites present here available free of charge. In
 alphabetical order:
 
+- 2Rec - [@OTLand](https://otland.net/members/2rec.187741/);
 - 3visan (aka Vittu) - [@TibiaKing](http://www.tibiaking.com/forum/profile/19276-3visan/);
 - Anevis (aka Caynez) - [@OTLand](https://otland.net/members/anevis.175097/), [@OTRealm](https://otrealm.com/index.php?members/caynez.51/);
 - Andreéw - [@OTLand](https://otland.net/members/andreew.211874/);
@@ -12,7 +13,7 @@ alphabetical order:
 - BrenoNeto - [@XTibia](http://www.xtibia.com/forum/profile/356307-brenoneto/);
 - Cat - [@ZezeniaForum](https://www.zezeniaonline.com/forum/thread/15599);
 - Celix - [@PhobosForum](http://forum.phobosonline.com/memberlist.php?mode=viewprofile&u=20);
-- Corvo - [@OTLand](https://otland.net/members/handland1.225765/);
+- Corvo (aka handland) - [@OTLand](https://otland.net/members/handland1.225765/);
 - dami1310 - [@OTLand](https://otland.net/members/dami1310.174641/);
 - Daniel - [@OTRealm](https://sprites.otrealm.com/), [@TibiaKing](http://www.tibiaking.com/forum/profile/25583-daniel/);
 - DawTorr - [@OTLand](https://otland.net/members/dawtorr.200757/);
@@ -37,14 +38,19 @@ alphabetical order:
 - Noxz - [@OTLand](https://otland.net/members/noxz.6166/);
 - Nu77 - [@OTLand](https://otland.net/members/nu77.204078/);
 - Peonso - [@OTLand](https://otland.net/members/peonso.5289/);
+- Ranzor - [@OTLand](https://otland.net/members/ranzor.217381/);
 - Saphron - [@OTLand](https://otland.net/members/saphron.91841/), [@OTRealm](https://otrealm.com/index.php?members/saphron.14/);
 - Sherice - [@OTLand](https://otland.net/members/sherice.150418/);
 - Shiva Shadowsong - [@OTLand](https://otland.net/members/shadowsong.78705/), [@OTRealm](https://otrealm.com/index.php?members/shiva-shadowsong.15/);
 - Slaake - [@TibiaKing](http://www.tibiaking.com/forum/profile/35794-slaake/);
 - Somni - [@OTLand](https://otland.net/members/somni.6137/);
 - Thorn - [@OTLand](https://otland.net/members/thorn.166053/), [@OTRealm](https://otrealm.com/index.php?members/thorn.130/);
+- Tokume - [@PhobosForum](http://forum.phobosonline.com/memberlist.php?mode=viewprofile&u=1484);
 - Venesis - [@OTLand](https://otland.net/members/venesis.23089/);
 - wesleyt10 - [@XTibia](http://www.xtibia.com/forum/profile/360593-wesleyt10/);
 - Way20 - [@OTLand](https://otland.net/threads/way-gallery.224923/);
 - Weto - [@OTLand](https://otland.net/members/weto.209826/), [@TibiaKing](http://www.tibiaking.com/forum/profile/28864-ewerton-weto-costa/), [@XTibia](http://www.xtibia.com/forum/profile/226928-eltoo/);
 - Worr - [@OTLand](https://otland.net/members/worr.110421/);
+
+Some people also, didn't made the sprites themselves, but paid for them and made them available, the artist is already credited above, here the list of Mecenas:
+- Sajgon - [@OTLand](https://otland.net/members/sajgon.221620/);
