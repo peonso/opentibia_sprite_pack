@@ -52,5 +52,5 @@ alphabetical order:
 - Weto - [@OTLand](https://otland.net/members/weto.209826/), [@TibiaKing](http://www.tibiaking.com/forum/profile/28864-ewerton-weto-costa/), [@XTibia](http://www.xtibia.com/forum/profile/226928-eltoo/);
 - Worr - [@OTLand](https://otland.net/members/worr.110421/);
 
-Some people also, didn't made the sprites themselves, but paid for them and made them available, the artist is already credited above, here the list of Mecenas:
+Some people didn't make the sprites themselves, but paid for them and made them available. The artist is already credited above, here the list of Mecenas:
 - Sajgon - [@OTLand](https://otland.net/members/sajgon.221620/);
