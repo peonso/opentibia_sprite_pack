@@ -9,6 +9,7 @@
 			<item fromid="990" toid="994"/>
 			<item id="2250"/>
 			<item fromid="2260" toid="2261" name="water"/>
+			<item fromid="2296" toid="2298" name="tile"/>
 		</raw>
 	</tileset>
 	
@@ -51,6 +52,8 @@
 	        <item fromid="1012" toid="1077" article="a" name="door"/>
 			<item fromid="1078" toid="1079" article="a" name="window"/>
 			<item fromid="1080" toid="1086" article="a" name="door"/>
+			<item fromid="2311" toid="2378" article="an" name="archway"/>
+			<item fromid="2379" toid="2582" article="a" name="door"/>
 		</raw>
 	</tileset>
 	
@@ -60,6 +63,7 @@
 			<item fromid="973" toid="976" article="a" name="mountain"/>
 			<item fromid="987" toid="989" article="a" name="mountain"/>
 			<item fromid="2253" toid="2257" article="a" name="mountain"/>
+			<item fromid="2299" toid="2310" name="wall"/>
 		</raw>
 	</tileset>
 	
@@ -80,6 +84,7 @@
 			<item id="1587" name="plant"/>
 			<item fromid="1588" toid="1591" article="a" name="tree log"/>
 			<item fromid="2258" toid="2259" article="a" name="tree log"/>
+			<item fromid="2583" toid="2585" article="a" name="plant"/>
 		</raw>
 	</tileset>
 	
@@ -90,6 +95,7 @@
 			<item fromid="1910" toid="1992"/>
 			<item fromid="1995" toid="2098"/>
 			<item fromid="2278" toid="2294"/>
+			<item fromid="2631" toid="2672"/>
 		</raw>
 	</tileset>
 	
@@ -100,6 +106,7 @@
 			<item fromid="1906" toid="1909"/>
 			<item fromid="1993" toid="1994"/>
 			<item fromid="2264" toid="2277"/>
+			<item fromid="2586" toid="2630"/>
 		</raw>
 	</tileset>
 	
@@ -108,6 +115,8 @@
 			<item fromid="2099" toid="2102" article="a" name="backpack"/>
 			<item fromid="2103" toid="2160" article="an" name="equipment"/>
 			<item id="2295"/>
+			<item id="2673" article="a" name="backpack"/>
+			<item fromid="2677" toid="2693" article="an" name="equipment"/>
 		</raw>
 	</tileset>
 	
@@ -121,12 +130,15 @@
 		<raw>
 			<item fromid="1087" toid="1314" article="an" name="object"/>
 			<item fromid="2161" toid="2220" article="an" name="object"/>
+			<item fromid="2674" toid="2676" article="an" name="object"/>
+			<item fromid="2694" toid="2701" article="an" name="object"/>
 		</raw>
 	</tileset>
 
 	<tileset name="Corpses">
 		<raw>
 			<item fromid="2227" toid="2248"/>
+			<item fromid="2702" toid="2712"/>
 		</raw>
 	</tileset>
 

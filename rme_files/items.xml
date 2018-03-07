@@ -402,7 +402,176 @@
 	<item id="2295" article="an" name="object">
 		<attribute key="weight" value="50"/>
 	</item>
-	
+	<!-- grounds -->
+	<item fromid="2296" toid="2298" name="tile"/>
+	<item fromid="2299" toid="2310" name="wall"/>
+	<!-- archways -->
+	<item fromid="2311" toid="2378" article="an" name="archway"/>
+	<!-- doors -->
+	<item fromid="2379" toid="2582" article="a" name="door"/>
+	<!-- nature -->
+	<item fromid="2583" toid="2585" article="a" name="plant"/>
+	<!-- sword -->
+	<item fromid="2586" toid="2601" article="a" name="sword">
+		<attribute key="weight" value="2000"/>
+		<attribute key="defense" value="12"/>
+		<attribute key="attack" value="14"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="extradef" value="1"/>
+	</item>
+	<!-- club -->
+	<item fromid="2602" toid="2609" article="a" name="club">
+		<attribute key="weight" value="2000"/>
+		<attribute key="defense" value="12"/>
+		<attribute key="attack" value="16"/>
+		<attribute key="weaponType" value="club"/>
+	</item>
+	<!-- axe -->
+	<item fromid="2610" toid="2620" article="a" name="axe">
+		<attribute key="weight" value="2000"/>
+		<attribute key="defense" value="12"/>
+		<attribute key="attack" value="15"/>
+		<attribute key="weaponType" value="axe"/>
+	</item>
+	<!-- distance weapon -->
+	<item fromid="2621" toid="2627" article="a" name="distance weapon">
+		<attribute key="weight" value="2000" />
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="ammoType" value="arrow"/>
+		<attribute key="range" value="6"/>
+		<attribute key="hitChance" value="5"/>
+	</item>
+	<!-- magic items -->
+	<item fromid="2628" toid="2630" article="a" name="wand">
+		<attribute key="weight" value="2700" />
+		<attribute key="weaponType" value="wand"/>
+		<attribute key="shootType" value="fire"/>
+		<attribute key="range" value="3"/>
+	</item>
+	<item fromid="2631" toid="2632" article="a" name="grimoire">
+		<attribute key="weight" value="1800"/>
+		<attribute key="defense" value="7"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+	<!-- shield -->
+	<item fromid="2633" toid="2634" article="a" name="shield">
+		<attribute key="weight" value="2000"/>
+		<attribute key="defense" value="18"/>
+		<attribute key="weaponType" value="shield"/>
+	</item>
+	<!-- helmet -->
+	<item fromid="2635" toid="2650" article="a" name="helmet">
+		<attribute key="weight" value="2000"/>
+		<attribute key="armor" value="4"/>
+		<attribute key="slotType" value="head"/>
+	</item>
+	<!-- chest -->
+	<item fromid="2651" toid="2661" article="an" name="armor chest">
+		<attribute key="weight" value="2000"/>
+		<attribute key="armor" value="5"/>
+		<attribute key="slotType" value="body"/>
+	</item>
+	<!-- legs -->
+	<item fromid="2662" toid="2667" article="a" name="legs"/>
+		<attribute key="weight" value="2000"/>
+		<attribute key="armor" value="3"/>
+		<attribute key="slotType" value="legs"/>
+	</item>
+	<!-- boots -->
+	<item fromid="2668" toid="2672" article="a" name="boots">
+		<attribute key="weight" value="750"/>
+		<attribute key="armor" value="1"/>
+		<attribute key="slotType" value="feet"/>
+	</item>
+	<!-- equipment -->
+	<item id="2673" article="a" name="backpack">
+		<attribute key="weight" value="1800"/>
+		<attribute key="containerSize" value="20"/>
+		<attribute key="slotType" value="backpack"/>
+	</item>
+	<item fromid="2674" toid="2676" article="an" name="object">
+		<attribute key="weight" value="500"/>
+	</item>
+	<item fromid="2677" toid="2693" article="an" name="equipment">
+		<attribute key="weight" value="500"/>
+	</item>
+	<item fromid="2694" toid="2701" article="an" name="object">
+		<attribute key="weight" value="500"/>
+	</item>
+	<!-- bodies -->
+	<item id="2702" article="a" name="dead human">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="0"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+		<attribute key="fluidSource" value="blood"/>
+	</item>
+	<item id="2703" article="a" name="dead human">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2704"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+		<attribute key="fluidSource" value="blood"/>
+	</item>
+	<item id="2704" article="a" name="dead human">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2248"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+	</item>
+	<item id="2705" article="a" name="dead human">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2706"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+		<attribute key="fluidSource" value="blood"/>
+	</item>
+	<item id="2706" article="a" name="dead human">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2248"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+	</item>
+	<item id="2707" article="a" name="dead succubus">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2708"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+		<attribute key="fluidSource" value="blood"/>
+	</item>
+	<item id="2708" article="a" name="dead succubus">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2233"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+	</item>
+	<item id="2709" article="a" name="dead succubus">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2710"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+		<attribute key="fluidSource" value="blood"/>
+	</item>
+	<item id="2710" article="a" name="dead succubus">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2233"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+	</item>
+	<item id="2711" article="a" name="dead succubus">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2712"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+		<attribute key="fluidSource" value="blood"/>
+	</item>
+	<item id="2712" article="a" name="dead succubus">
+		<attribute key="containerSize" value="10"/>
+		<attribute key="decayTo" value="2233"/>
+		<attribute key="duration" value="300"/>
+		<attribute key="corpseType" value="blood"/>
+	</item>
+
 	<!-- liquids -->
 	<item id="30001" name="water" />
 	<item id="30002" name="blood" />
