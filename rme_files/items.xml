@@ -161,7 +161,7 @@
 		<attribute key="slotType" value="body"/>
 	</item>
 	<!-- legs -->
-	<item fromid="2077" toid="2089" article="a" name="legs"/>
+	<item fromid="2077" toid="2089" article="a" name="legs">
 		<attribute key="weight" value="2000"/>
 		<attribute key="armor" value="3"/>
 		<attribute key="slotType" value="legs"/>
@@ -472,7 +472,7 @@
 		<attribute key="slotType" value="body"/>
 	</item>
 	<!-- legs -->
-	<item fromid="2662" toid="2667" article="a" name="legs"/>
+	<item fromid="2662" toid="2667" article="a" name="legs">
 		<attribute key="weight" value="2000"/>
 		<attribute key="armor" value="3"/>
 		<attribute key="slotType" value="legs"/>
