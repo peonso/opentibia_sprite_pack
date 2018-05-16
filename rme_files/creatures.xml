@@ -19,4 +19,23 @@
 	<creature name="Arcadia Protector" type="monster" looktype="22"/>
 	<creature name="Sacred Warrior" type="monster" looktype="23"/>
 	<creature name="Taenia" type="monster" looktype="24"/>
+	<creature name="Barney" type="monster" looktype="25"/>
+	<creature name="Spinner" type="monster" looktype="27"/>
+	<creature name="Sword" type="monster" looktype="28"/>
+	<creature name="Taeniab" type="monster" looktype="29"/>
+	<creature name="Taeniac" type="monster" looktype="30"/>
+	<creature name="Taeniad" type="monster" looktype="31"/>
+	<creature name="Gandalfb" type="monster" looktype="32"/>
+	<creature name="Gandalfc" type="monster" looktype="33"/>
+	<creature name="Occultistb" type="monster" looktype="34"/>
+	<creature name="Occultistc" type="monster" looktype="35"/>
+	<creature name="Occultistd" type="monster" looktype="36"/>
+	<creature name="Succubusb" type="monster" looktype="37"/>
+	<creature name="Succubusc" type="monster" looktype="38"/>
+	<creature name="Succubusd" type="monster" looktype="39"/>
+	<creature name="Wraithb" type="monster" looktype="40"/>
+	<creature name="Wraithc" type="monster" looktype="41"/>
+	<creature name="Wraithd" type="monster" looktype="42"/>
+	<creature name="Wraithe" type="monster" looktype="43"/>
+	<creature name="Lizardman" type="monster" looktype="46"/>
 </creatures>
